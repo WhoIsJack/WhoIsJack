@@ -4,11 +4,11 @@
 
 I'm Jonas; a **systems biologist** who studies **how cells self-organize and cooperate** to perform sophisticated biological functions, such as building organs during embryonic development. To do this, I combine **experiments** (mainly zebrafish fluorescence microscopy), **computation** (including image analysis, data science, and simulations), and **theory** (from modeling all the way to philosophy). My computational work is primarily based on **python**.
 
-At present, I work as a postdoctoral researcher in the [Mayor lab](https://mayorlab-ucl.webflow.io/) at University College London.
+Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorlab-ucl.webflow.io/) at University College London.
 
 ----
 
-🔧 _**I'm currently mainly working on...**_
+🔧 _**I'm currently (mainly) working on...**_
 
 - Developing new conceptual perspectives to understand complex living systems, such as the **Core & Periphery (C&P) hypothesis** 💥
     - **Read the C&P hypothesis paper [here](https://doi.org/10.1016/j.cels.2024.08.001)!**
@@ -20,13 +20,15 @@ At present, I work as a postdoctoral researcher in the [Mayor lab](https://mayor
 - **Automating microscopes** to track migratory cell populations 🔬🤖
     - Work in progress; more on this soon!
 
+----
 
 👀 _**Some repos you may want to check out:**_
 
 - [Bioimage analysis with python](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial); my hands-on, self-explanatory tutorial; a bit aged by now but still good; "vintage", one might say :p
-- [Tissue_exploder](https://github.com/WhoIsJack/tissue_exploder): it's basic but it looks fancy, especially in 3D (see banner below)! :D
-- [TrackTree](https://github.com/WhoIsJack/TrackTree); another fancy visualization; the day will come when I will actually need it for a paper, I'm sure, at which point I'll be modernizing this code, pinky promise...
+- [tissue_exploder](https://github.com/WhoIsJack/tissue_exploder); it's basic but it does look fancy, especially in 3D (see banner below)! :D
+- [TrackTree](https://github.com/WhoIsJack/TrackTree); another pretty visualization; maybe I'll actually need it for a paper one day, at which point I'll definitely update the code...
 
+----
 
 💡 _**My thoughts on...**_
 
