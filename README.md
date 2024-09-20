@@ -1,8 +1,8 @@
 ![Neural Crest banner image](https://github.com/WhoIsJack/WhoIsJack/blob/main/NC_banner.png?raw=true)
 
-### Heya, 
+### Heya, I'm Jonas,
 
-I'm Jonas; a **systems biologist** who studies **how cells self-organize and cooperate** to perform sophisticated biological functions, such as building organs during embryonic development. To do this, I combine **experiments** (mainly zebrafish fluorescence microscopy), **computation** (including image analysis, data science, and simulations), and **theory** (from modeling all the way to philosophy). My computational work is primarily based on **python**.
+a **systems biologist** who studies **how cells self-organize and cooperate** to perform sophisticated biological functions, such as building organs during embryonic development. To do this, I combine **experiments** (mainly zebrafish fluorescence microscopy), **computation** (including image analysis, data science, and simulations), and **theory** (from modeling all the way to philosophy). My computational work is primarily based on **python**.
 
 Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorlab-ucl.webflow.io/) at University College London.
 
