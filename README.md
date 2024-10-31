@@ -16,13 +16,13 @@ Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorl
 * Studying the interplay of cell shape and cell fate using **systems microscopy** 🔬🐟
     - My current project focuses on the zebrafish neural crest; more on this soon!
     - In earlier related work I analyzed the cellular architecture of the zebrafish lateral line primordium; see [my PhD paper](https://elifesciences.org/articles/55913)!
-    - Two blog posts systems microscopy for non-experts can be found [here](https://towardsdatascience.com/untangling-biology-microscopes-algorithms-d6528f996faf) and [here](https://thenode.biologists.com/image-data-science/research/)
-- **Automating microscopes** to track migratory cell populations 🔬🤖
+    - Two blog posts on systems microscopy for non-experts can be found [here](https://towardsdatascience.com/untangling-biology-microscopes-algorithms-d6528f996faf) and [here](https://thenode.biologists.com/image-data-science/research/)
+- **Automating microscopes** to track migratory cell populations 🤖🔬
     - Work in progress; more on this soon!
 
 ----
 
-👀 _**Some repos you may want to check out:**_
+👀 _**Some repos worth checking out:**_
 
 - [Bioimage analysis with python](https://github.com/WhoIsJack/python-bioimage-analysis-tutorial); my hands-on, self-explanatory tutorial; a bit aged by now but still good; "vintage", one might say :p
 - [tissue_exploder](https://github.com/WhoIsJack/tissue_exploder); it's basic but it does look fancy, especially in 3D (see banner below)! :D
