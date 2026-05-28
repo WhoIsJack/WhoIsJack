@@ -19,7 +19,7 @@ Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorl
     - An accompanying blog post can be found [here](https://thenode.biologists.com/a-short-rant-on-the-present-and-future-of-developmental-biology/research/)
 - **Automating microscopes** to track migratory cell populations 🤖🔬
     - I'm the lead dev of **DySTrack (Dynamic Sample Tracking)**, a recently released open-source python tool for automated tracking of moving samples on common commercial microscopes
-    - Find it here: [GitHub repo](https://github.com/WhoIsJack/DySTrack), [Documentation](https://whoisjack.github.io/DySTrack/), [Preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2025.12.02.691816v1)
+    - Find it here: [GitHub repo](https://github.com/WhoIsJack/DySTrack), [Documentation](https://whoisjack.github.io/DySTrack/), [Paper in JCS](https://doi.org/10.1242/jcs.264728)
 
 ----
 
@@ -35,7 +35,7 @@ Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorl
 📜 _**Repos associated with my contributions to research papers:**_
 
 - Wu, ..., and Hartmann (2025): _DySTrack: a modular smart microscopy tool for live tracking of dynamic samples on modern commercial microscopes_
-    - Preprint: https://doi.org/10.64898/2025.12.02.691816
+    - Paper: https://doi.org/10.1242/jcs.264728
     - Repo: https://github.com/WhoIsJack/DySTrack
 
 * Alasaadi et al. (2024): _Competence for neural crest induction is controlled by hydrostatic pressure through Yap_
