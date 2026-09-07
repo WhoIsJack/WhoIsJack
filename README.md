@@ -11,7 +11,7 @@ Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorl
 🔧 _**I'm currently (mainly) working on...**_
 
 - Studying the interplay of cell shape and cell fate using **systems microscopy** 🔬🐟
-    - My main postdoc project uses the zebrafish neural crest as a model system; more on this soon!
+    - My main postdoc project uses the zebrafish neural crest as a model system; _more on this soon!_
     - In earlier related work I analyzed the cellular architecture of the zebrafish lateral line primordium; see [my PhD paper](https://elifesciences.org/articles/55913)!
     - Two blog posts on systems microscopy for non-experts can be found [here](https://towardsdatascience.com/untangling-biology-microscopes-algorithms-d6528f996faf) and [here](https://thenode.biologists.com/image-data-science/research/)
 * Developing new conceptual perspectives to understand complex living systems, namely the **Core & Periphery (C&P) hypothesis** 💥
@@ -33,6 +33,10 @@ Currently, I work as a postdoctoral researcher in the [Mayor lab](https://mayorl
 ----
 
 📜 _**Repos associated with my contributions to research papers:**_
+
+* Le et al. (2026): _Tissue flow acts as a guidance cue for immune cell polarization and directional migration_
+    - Paper: https://doi.org/10.1038/s41556-026-02058-9
+    - Repo: https://github.com/WhoIsJack/ectoderm-myeloid-tracking-analysis
 
 - Wu, ..., and Hartmann (2025): _DySTrack: a modular smart microscopy tool for live tracking of dynamic samples on modern commercial microscopes_
     - Paper: https://doi.org/10.1242/jcs.264728
